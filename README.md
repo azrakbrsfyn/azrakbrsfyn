@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @azrakbrsfyn
-- 👀 I’m interested in Front-End web developer
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in Web Development and Machine Learning
+- 🌱 I’m currently learning Laravel and Machine Learning Stuff
 - 📫 How to reach me: 
 - Instagram : @azrielakbarsofyan
+- Gmail     : azrielakbarsofyan@gmail.com
 
 <!---
 azrakbrsfyn/azrakbrsfyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
