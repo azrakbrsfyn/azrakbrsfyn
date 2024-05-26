@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @azrakbrsfyn
+- 👋 Hi, I’m Azriel Akbar Sofyan.
+- 🌱 I'm last year undergraduate student at UPN "Veteran" Jawa Timur University.
 - 👀 I’m interested in Web Development and Machine Learning
-- 🌱 I’m currently learning Laravel and Machine Learning Stuff
+- 🌱 I’m currently learning Laravel and Machine Learning Stuff!
 - 📫 How to reach me: 
 - Instagram : @azrielakbarsofyan
 - Gmail     : azrielakbarsofyan@gmail.com
